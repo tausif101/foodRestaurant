@@ -44,13 +44,13 @@ FoodRestaurant is a React project aimed at creating a restaurant website where u
 5. Run the backend server:
 
    ```bash
-   cd /server
+   cd server
    npm start
 
 6. Run the frontend:
 
    ```bash
-   cd /app
+   cd app
    npm run preview
    
    
