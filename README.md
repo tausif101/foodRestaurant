@@ -21,6 +21,30 @@ FoodRestaurant is a React project aimed at creating a restaurant website where u
 
    ```bash
    git clone https://github.com/your-username/foodRestaurant.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd foodRestaurant
+
+3. Install dependencies: go into each both folder app and server, then install dependencies of both.
+
+   ```bash
+   npm install
+
+4. Run the backend server:
+
+   ```bash
+   cd server
+   npm start
+
+
+5. Run the frontend:
+
+   ```bash
+   cd ../app
+   npm start
+   
    
 ## Folder Structure
 
