@@ -58,3 +58,7 @@ Once the project is running, open a web browser and navigate to http://localhost
 ## Purpose
 
 The purpose of this project is to provide users with an online platform to view the restaurant's menu and explore various food options offered by the establishment.
+
+
+![Uploading image.png…]()
+
