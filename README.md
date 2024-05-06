@@ -1,4 +1,6 @@
 # FoodRestaurant
+![image](https://github.com/tausif101/foodRestaurant/assets/49864806/0c11b83e-eacc-4bc8-ad8f-b21b6e07dc14)
+
 
 FoodRestaurant is a React project aimed at creating a restaurant website where users can explore the variety of foods offered by the restaurant. It provides features such as searching for food items and filtering them by category. The project utilizes JavaScript for the backend server, fetching food data from a JavaScript file in JSON format, and presenting it in the frontend using React.
 
@@ -60,6 +62,5 @@ Once the project is running, open a web browser and navigate to http://localhost
 The purpose of this project is to provide users with an online platform to view the restaurant's menu and explore various food options offered by the establishment.
 
 
-![image](https://github.com/tausif101/foodRestaurant/assets/49864806/c5606934-4fd1-4252-8c93-8ebb78a5270e)
 
 
