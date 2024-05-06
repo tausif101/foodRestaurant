@@ -1,5 +1,6 @@
 # FoodRestaurant
-![image](https://github.com/tausif101/foodRestaurant/assets/49864806/0c11b83e-eacc-4bc8-ad8f-b21b6e07dc14)
+![image](https://github.com/tausif101/foodRestaurant/assets/49864806/83379d26-604a-4213-a85d-91516859f388)
+
 
 
 FoodRestaurant is a React project aimed at creating a restaurant website where users can explore the variety of foods offered by the restaurant. It provides features such as searching for food items and filtering them by category. The project utilizes JavaScript for the backend server, fetching food data from a JavaScript file in JSON format, and presenting it in the frontend using React.
@@ -15,7 +16,7 @@ FoodRestaurant is a React project aimed at creating a restaurant website where u
 - React: Frontend framework for building user interfaces.
 - JavaScript: Backend server scripting language.
 - useState and useEffect Hooks: Utilized for managing state and side effects in React components.
-- Styled Components: Used for styling the website components.
+- Styled Components: Used for styling the website components. The website is also responsive to different screen sizes.
 
 ## Installation
 
