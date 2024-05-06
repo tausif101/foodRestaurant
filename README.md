@@ -27,25 +27,31 @@ FoodRestaurant is a React project aimed at creating a restaurant website where u
 2. Navigate to the project directory:
 
    ```bash
-   cd foodRestaurant
+   cd foodRestaurant-main
 
 3. Install dependencies: go into each both folder app and server, then install dependencies of both.
 
    ```bash
+   cd app
    npm install
 
-4. Run the backend server:
+4. Install dependencies: go into each both folder app and server, then install dependencies of both.
 
    ```bash
    cd server
-   npm start
+   npm install
 
-
-5. Run the frontend:
+5. Run the backend server:
 
    ```bash
-   cd ../app
+   cd /server
    npm start
+
+6. Run the frontend:
+
+   ```bash
+   cd /app
+   npm run preview
    
    
 ## Folder Structure
@@ -55,7 +61,7 @@ FoodRestaurant is a React project aimed at creating a restaurant website where u
 
 ## Usage
 
-Once the project is running, open a web browser and navigate to http://localhost:5713 to access the FoodRestaurant website.
+Once the project is running, open a web browser and navigate to http://localhost:4173 to access the FoodRestaurant website.
 
 ## Purpose
 
